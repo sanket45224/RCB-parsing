@@ -1,7 +1,7 @@
 # RCB-parsing
-**Prerequisite
+**Prerequisite**
 
-**OVERVIEW
+**OVERVIEW**
 The team "RCB (Royal Challengers Bangalore)" has submitted its team for an upcoming match. The details of the team are as described in the json at the end of this document.
 
 **PROBLEM TO SOLVE:
